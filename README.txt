@@ -10,4 +10,4 @@
 
 Created by: @dcolemanturner + @dmitriymoroz
 
-Notes: Tested and added several different styles of IF ruby statements
+Overview: This is a test project to better understand and implement ruby
